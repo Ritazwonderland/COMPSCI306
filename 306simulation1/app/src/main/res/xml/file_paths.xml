@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- For saving photos to Pictures directory -->
+    <external-files-path
+        name="my_images"
+        path="Pictures" />
+
+    <!-- Optional: Add more paths if needed -->
+    <cache-path name="my_cache" path="cache_images/" />
+</paths>

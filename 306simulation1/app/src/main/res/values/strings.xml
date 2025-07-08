@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">306simulation1</string>
+    <string name="take_picture_button_text">TAKE A PICTURE</string>
+    <string name="map_screen_title">Map View</string>
+    <string name="camera_screen_title">Take Photo</string>
+    <string name="take_photo">TAKE A PICTURE</string>
+    <string name="default_marker_title">Building Photo</string>
+    <string name="default_marker_snippet">Click for details</string>
+    <string name="permission_denied_message">Some permissions were denied. App may not function properly.</string>
+    <string name="location_unavailable">Location not available</string>
+    <string name="marker_added">Photo marker added</string>
+    <string name="info_window_title">Building Information</string>
+    <string name="info_window_hint">Enter description here...</string>
+    <string name="save_button">Save</string>
+    <string name="permission_rationale_title">Permissions Needed</string>
+    <string name="permission_rationale_message">This app needs location and camera permissions to function properly.</string>
+    <string name="permission_denied_alert">Permission Denied</string>
+    <string name="permission_denied_detail">You have denied required permissions. Please enable them in app settings.</string>
+    <string name="settings_button">Settings</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
