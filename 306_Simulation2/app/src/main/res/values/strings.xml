@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">306_Simulation2</string>
+
+    <string name="title_activity_maps">MainActivity</string>
+
+
+        <!-- Exercise Stats -->
+    <string name="steps_label">Steps: %1$d</string>
+    <string name="distance_label">Distance: %1$dm</string>
+
+    <!-- Music Controls -->
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+
+    <!-- Status Messages -->
+    <string name="status_ready">Status: Ready</string>
+    <string name="status_walking">Status: Walking</string>
+    <string name="status_running">Status: Running</string>
+</resources>
